@@ -4,7 +4,7 @@ MATLAB codes and dataset
 # Overview
 This repository contains several datasets and MATLAB codes used for the study on the transition from hot to cold subduction. 
 Statistical analysis was applied to a large geochemical dataset of mafic rocks spanning the last 3.5 Ga. From this investigation a rapidly increasing magnitude of alkali basalt magmatism was revealed during the 2.1-1.8 Ga interval. We thus conclude that the modern-style cold subduction commenced at ~2.1 Ga.
-We compiled 3 codes to generate the diagrams in Fig. 3, Fig. 4A and Fig. 4B. Here is the list of code files.
+We compiled 3 codes to generate the diagrams in Fig. 1-Fig. 4. Here is the list of code files.
 
 Mean_AA_vs_BB.m - Calculating the mean and standard errors of elements with SiO2 from 45 to 52 wt% through Bootstrap resampling method. The interval is set at 1 wt%. This program is designated for the Nb-SiO2, TiO2-SiO2 and P2O5-SiO2 differentiation trend in Fig 1 and Fig 2. 
 
