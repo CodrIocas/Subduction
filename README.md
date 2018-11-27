@@ -56,5 +56,5 @@ A MATLAB code can be run by the following steps. Please also refer to the demo f
 5. Press the F5 on the keyboard and the figures will be displayed. 
 
 ## Reproduction instructions
-All the results for creating Fig. 1-Fig. 4 in this paper can be reproduced by run the corresponding MATLAB codes following the above steps. 
+All the results for creating Fig. 1-Fig. 4 in this paper can be reproduced by run the corresponding MATLAB codes following the above steps. Further embellishment on those figures can be operated in other applications, e.g. Adobe Illustrator, CorelDRAW, etc. 
  
