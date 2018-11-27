@@ -2,7 +2,7 @@
 MATLAB codes and dataset
 
 # Overview
-This distribution contains several dataset and MATLAB codes used for the study on the transition from hot to cold subduction. 
+This repository contains several datasets and MATLAB codes used for the study on the transition from hot to cold subduction. 
 Statistical analysis was applied to a large geochemical dataset of mafic rocks spanning the last 3.5 Ga. From this investigation a rapidly increasing magnitude of alkali basalt magmatism was revealed during the 2.1-1.8 Ga interval. We thus conclude that the modern-style cold subduction commenced at ~2.1 Ga.
 We compiled 3 codes to generate the diagrams in Fig. 3, Fig. 4A and Fig. 4B. Here is the list of code files.
 
