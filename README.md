@@ -48,7 +48,7 @@ In this case, we calculate the Diff (Nb) through time as an example.
  
 # Instructions for use
 ## Steps to run the codes
-A MATLAB code can be run by the following steps. Please also refer to the demo for examples.
+A MATLAB code can be run by the following steps. Please also refer to the Demo section above for examples.
 1. Open the code files (*.m) using a MATLAB (R2014a or higher version) platform; 
 2. Choose the filename of the dataset;
 3. Change the column number to select the element to be calculated;
