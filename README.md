@@ -1,4 +1,4 @@
-# Hot-cold plate Subduction transition marked by the rise of alkali magmatism ~2.1 billion years ago
+# Continuous plate subduction marked by the rise of alkali magmatism
 MATLAB codes and dataset
 
 # Overview
